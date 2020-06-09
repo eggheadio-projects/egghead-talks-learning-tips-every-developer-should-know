@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # [Ceora Ford - Learning Tips Every Developer Should Know](https://egghead.io/lessons/egghead-eggheadtalk-learning-tips-every-developer-should-know)
@@ -117,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.carmina.dev/"><img src="https://avatars1.githubusercontent.com/u/39824427?v=4" width="100px;" alt=""/><br /><sub><b>Carmina Edrozo</b></sub></a><br /><a href="#content-carminaedrozo" title="Content">🖋</a></td>
+    <td align="center"><a href="https://laurosilva.com"><img src="https://avatars2.githubusercontent.com/u/57044804?v=4" width="100px;" alt=""/><br /><sub><b>Lauro Silva</b></sub></a><br /><a href="https://github.com/eggheadio-projects/egghead-talks-learning-tips-every-developer-should-know/pulls?q=is%3Apr+reviewed-by%3Alaurosilvacom" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
