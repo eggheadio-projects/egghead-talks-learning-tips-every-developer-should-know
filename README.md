@@ -1,3 +1,7 @@
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 # [Ceora Ford - Learning Tips Every Developer Should Know](https://egghead.io/lessons/egghead-eggheadtalk-learning-tips-every-developer-should-know)
 
 ## Table of Contents
@@ -102,3 +106,23 @@ Try [#100DaysOfCode](https://www.100daysofcode.com/) challenge, which helps you 
 
 - [5 Mistakes I Made My First Year Learning to Code](https://dev.to/ceeoreo/5-mistakes-i-made-my-first-year-learning-to-code-3cj5)
 - [Learning to Learn- Get the Most Out of Learning with These Resources](https://dev.to/ceeoreo/learning-to-learn-get-the-most-out-of-learning-with-these-resources-2ocd)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.carmina.dev/"><img src="https://avatars1.githubusercontent.com/u/39824427?v=4" width="100px;" alt=""/><br /><sub><b>Carmina Edrozo</b></sub></a><br /><a href="#content-carminaedrozo" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
